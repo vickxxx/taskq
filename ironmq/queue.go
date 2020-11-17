@@ -10,11 +10,11 @@ import (
 	"github.com/iron-io/iron_go3/api"
 	"github.com/iron-io/iron_go3/mq"
 
-	"github.com/vmihailenco/taskq/v3"
-	"github.com/vmihailenco/taskq/v3/internal"
-	"github.com/vmihailenco/taskq/v3/internal/base"
-	"github.com/vmihailenco/taskq/v3/internal/msgutil"
-	"github.com/vmihailenco/taskq/v3/memqueue"
+	"github.com/vickxxx/taskq/v3"
+	"github.com/vickxxx/taskq/v3/internal"
+	"github.com/vickxxx/taskq/v3/internal/base"
+	"github.com/vickxxx/taskq/v3/internal/msgutil"
+	"github.com/vickxxx/taskq/v3/memqueue"
 )
 
 type Queue struct {

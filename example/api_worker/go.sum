@@ -99,8 +99,8 @@ github.com/vmihailenco/msgpack/v5 v5.0.0-beta.1/go.mod h1:xlngVLeyQ/Qi05oQxhQ+oT
 github.com/vmihailenco/tagparser v0.1.1 h1:quXMXlA39OCbd2wAdTsGDlK9RkOk6Wuw+x37wVyIuWY=
 github.com/vmihailenco/tagparser v0.1.1/go.mod h1:OeAg3pn3UbLjkWt+rN9oFYB6u/cQgqMEUPoW2WPyhdI=
 github.com/vmihailenco/taskq v1.8.2 h1:c/sfnPi2NF7/+8/XUEDmlhxlcvTxqkNPp5VEbfMSg+4=
-github.com/vmihailenco/taskq/v3 v3.0.0 h1:IstMt24fSZ+A4kh8wuxZn+OePTZvrIPZxw0EeiNH15U=
-github.com/vmihailenco/taskq/v3 v3.0.0/go.mod h1:TCB3Otzi1oyEPLOWb6b/44gSCGTGTcvGzMO+q/jrauo=
+github.com/vickxxx/taskq/v3 v3.0.0 h1:IstMt24fSZ+A4kh8wuxZn+OePTZvrIPZxw0EeiNH15U=
+github.com/vickxxx/taskq/v3 v3.0.0/go.mod h1:TCB3Otzi1oyEPLOWb6b/44gSCGTGTcvGzMO+q/jrauo=
 go.opentelemetry.io/otel v0.5.0/go.mod h1:jzBIgIzK43Iu1BpDAXwqOd6UPsSAk+ewVZ5ofSXw4Ek=
 go.opentelemetry.io/otel v0.11.0 h1:IN2tzQa9Gc4ZVKnTaMbPVcHjvzOdg5n9QfnmlqiET7E=
 go.opentelemetry.io/otel v0.11.0/go.mod h1:G8UCk+KooF2HLkgo8RHX9epABH/aRGYET7gQOqBVdB0=

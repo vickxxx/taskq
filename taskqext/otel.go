@@ -1,7 +1,7 @@
 package taskqext
 
 import (
-	"github.com/vmihailenco/taskq/v3"
+	"github.com/vickxxx/taskq/v3"
 	"go.opentelemetry.io/otel/api/global"
 	"go.opentelemetry.io/otel/api/trace"
 	"go.opentelemetry.io/otel/codes"

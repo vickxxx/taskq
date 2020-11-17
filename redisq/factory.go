@@ -3,8 +3,8 @@ package redisq
 import (
 	"context"
 
-	"github.com/vmihailenco/taskq/v3"
-	"github.com/vmihailenco/taskq/v3/internal/base"
+	"github.com/vickxxx/taskq/v3"
+	"github.com/vickxxx/taskq/v3/internal/base"
 )
 
 type factory struct {

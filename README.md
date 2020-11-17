@@ -1,7 +1,7 @@
 # Golang asynchronous task/job queue with Redis, SQS, IronMQ, and in-memory backends
 
 [![Build Status](https://travis-ci.org/vmihailenco/taskq.svg)](https://travis-ci.org/vmihailenco/taskq)
-[![GoDoc](https://godoc.org/github.com/vmihailenco/taskq?status.svg)](https://pkg.go.dev/github.com/vmihailenco/taskq/v3?tab=doc)
+[![GoDoc](https://godoc.org/github.com/vmihailenco/taskq?status.svg)](https://pkg.go.dev/github.com/vickxxx/taskq/v3?tab=doc)
 
 > :heart: [**Uptrace.dev** - distributed traces, logs, and errors in one place](https://uptrace.dev)
 
@@ -11,7 +11,7 @@ taskq requires a Go version with [Modules](https://github.com/golang/go/wiki/Mod
 uses import versioning. So please make sure to initialize a Go module before installing taskq:
 
 ```bash
-go get github.com/vmihailenco/taskq/v3
+go get github.com/vickxxx/taskq/v3
 ```
 
 ## Features
@@ -220,7 +220,7 @@ taskq supports tracing out-of-the-box using [OpenTelemetry](https://opentelemetr
 instrument a queue, use the following code:
 
 ```go
-import "github.com/vmihailenco/taskq/v3/taskqext"
+import "github.com/vickxxx/taskq/v3/taskqext"
 
 consumer := queue.Consumer()
 consumer.AddHook(&taskqext.OpenTelemetryHook{})
