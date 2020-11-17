@@ -1,11 +1,11 @@
-module github.com/vmihailenco/taskq/v3
+module github.com/vickxxx/taskq/v3
 
 go 1.11
 
 require (
 	github.com/aws/aws-sdk-go v1.35.28
 	github.com/bsm/redislock v0.7.0
-	github.com/capnm/sysinfo v0.0.0-20130621111458-5909a53897f3
+	// github.com/capnm/sysinfo v0.0.0-20130621111458-5909a53897f3
 	github.com/dgryski/go-farm v0.0.0-20200201041132-a6ae2369ad13
 	github.com/go-redis/redis/v8 v8.3.3
 	github.com/go-redis/redis_rate/v9 v9.0.2
